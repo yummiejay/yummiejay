@@ -2,7 +2,7 @@ Here's a README profile draft for your GitHub account:
 
 ---
 
-# 👋 Hi, I’m @yummiejay (Yomi Junior, Ismail)
+# 👋 Hi, I’m @yummiejay (Yummie Jay)
 
 Welcome to my GitHub profile! I'm a dynamic and results-driven Product Operations Associate with a background in Chemical Engineering. My experience spans various roles in product management, customer success, and financial inclusion. I am passionate about leveraging data and technology to solve problems and improve efficiency.
 
