@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I'm a dynamic and results-driven Product Operation
 - Customer service and operational efficiency improvements
 
 ## 📫 How to reach me:
+<!---
 - **Email**: ismailyomi@gmail.com
 - **LinkedIn**: [Yomi Ismail](www.linkedin.com/in/yomi-ismail-211760a1)
 - **Twitter**: [@yummiejay](https://twitter.com/yummiejay)
